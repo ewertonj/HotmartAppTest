@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Hotmart Application</string>
+    <string name="title_details">Detalhes</string>
+    <string name="label_about">SOBRE</string>
+    <string name="sunday_format">Dom %s às %s \n</string>
+    <string name="monday_format">Seg %1$s às %2$s\n</string>
+    <string name="tuesday_format">Ter %s às %s\n</string>
+    <string name="wednesday_format">Qua %s às %s\n</string>
+    <string name="thursday_format">Qui %s às %s\n</string>
+    <string name="friday_format">Sex %s às %s\n</string>
+    <string name="saturday_format">Sáb %s às %s\n</string>
+    <string name="share">Compartilhar</string>
+    <string name="try_againt">Tentar novamente</string>
+    <string name="error_message">Ocorreu um erro inesperado ao buscar os dados. Por favor, tente novamente.</string>
+    <string name="error_message_title">Ops!</string>
+
+
+</resources>
